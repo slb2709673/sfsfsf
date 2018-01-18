@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "sfsfsf"
+  s.name         = "sfsfsf2"
   s.version      = "0.0.1"
   s.summary      = "ni kai xin jiu hao"
 
@@ -89,7 +89,7 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "sfsfsf/test3", "test3/**/*.{h,m}"
+ s.source_files  = "test3", "test3/**/*.{h,m}"
   s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
