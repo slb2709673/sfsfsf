@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "sfsfsf2"
+  s.name         = "测试pods"
   s.version      = "0.0.1"
   s.summary      = "ni kai xin jiu hao"
 
@@ -38,7 +38,7 @@ Pod::Spec.new do |s|
   #
 
   #s.license      = "MIT (example)"
-   s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
+  s.license      = { :type => "MIT", :file => "LICENSE" }
 
 
   # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
